@@ -1,0 +1,11 @@
+# Generated worksheets
+lessons/
+*.html
+
+# Session state
+spanish-activity-log.md
+inspector-exchange.md
+class-profile.md
+
+# Local Claude Code settings
+.claude/settings.local.json
