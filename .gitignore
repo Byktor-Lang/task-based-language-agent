@@ -1,6 +1,6 @@
 # Generated worksheets
 lessons/
-*.html
+# lessons/*.html  (alternative if needed)
 
 # Session state
 spanish-activity-log.md
@@ -9,3 +9,20 @@ class-profile.md
 
 # Local Claude Code settings
 .claude/settings.local.json
+
+# Sensitive docs
+docs/CLAUDE_CODE_CONVERSION_BRIEF.md
+
+# Environment variables (important)
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
