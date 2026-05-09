@@ -113,3 +113,6 @@ Each session appends a structured record to `spanish-activity-log.md`: topic, vo
 | `docs/MANIFEST_SCHEMA.md` | Full YAML manifest schema with per-stage variations and examples |
 | `docs/MIGRATION_NOTES.md` | What changed from the earlier single-context build |
 | `tests/smoke-test-prompts.md` | Test prompts for verifying pipeline behavior |
+
+# task-based-language-agent
+A Claude Code multi-agent pipeline that generates complete TBLT lesson packages for 9th-grade Spanish. Three specialist agents produce coordinated worksheets (communicative task, vocabulary preparation, and written reflection), scored against Lee's TBLT criteria and Schell's engagement lenses before delivery.
