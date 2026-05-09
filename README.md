@@ -111,7 +111,6 @@ Each session appends a structured record to `spanish-activity-log.md`: topic, vo
 |---|---|
 | `docs/ARCHITECTURE.md` | Agent responsibilities, design rationale, manifest contract |
 | `docs/MANIFEST_SCHEMA.md` | Full YAML manifest schema with per-stage variations and examples |
-| `docs/MIGRATION_NOTES.md` | What changed from the earlier single-context build |
 | `tests/smoke-test-prompts.md` | Test prompts for verifying pipeline behavior |
 
 # task-based-language-agent
